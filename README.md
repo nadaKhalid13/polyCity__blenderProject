@@ -14,7 +14,7 @@ Welcome to the **Poly City Project**, a creative exploration into the world of 3
 - **🎨 Adding Colors and Texture**  
   Applied a unique palette and textures to enhance the visual appeal, bringing out the character and vibrancy of the city.
 
-- **🌅 `HDRI` Lighting**  
+- **🌅 HDRI Lighting**  
   Utilized High Dynamic Range Imaging (HDRI) to create realistic lighting environments, adding depth and realism to the scene.
 
 - **🎥 Animation**  
@@ -23,7 +23,7 @@ Welcome to the **Poly City Project**, a creative exploration into the world of 3
 - **📸 Rendering (Images + Shots)**  
   Captured high-quality images and cinematic shots using both `Cycle` and `Eevee Engines` rendering that highlight the best aspects of the city design, ensuring a polished final presentation.
 
-## _Some Shots_
+## _Some Images_
 
 ![img1](Imgs/night_0008.png)
 ![img1](Imgs/pic_1.png)
