@@ -31,4 +31,7 @@ Welcome to the **Poly City Project**, a creative exploration into the world of 3
 ![img1](Imgs/pic_3.png)
 ![img1](Imgs/pic_4.png)
 
-![Demo](RENDERING.mp4)
+
+
+https://github.com/user-attachments/assets/d4dbe68c-bd7f-4a87-a367-f994c45beda6
+
