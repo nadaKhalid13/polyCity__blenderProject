@@ -30,3 +30,5 @@ Welcome to the **Poly City Project**, a creative exploration into the world of 3
 ![img1](Imgs/pic_2.png)
 ![img1](Imgs/pic_3.png)
 ![img1](Imgs/pic_4.png)
+
+![img1](RENDERING.mp4)
